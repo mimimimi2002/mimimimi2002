@@ -18,7 +18,7 @@
 - 🎓 Student at **Institute of Science Tokyo (東京科学大学)** — one of my projects is officially used on the university's study-abroad page
 - 🤖 Interested in **Vision-Language(-Action) models**, **LLM agents**, and **robot / driving policy learning**
 - 🧱 I like **rebuilding things from scratch** to understand them — GPT(LLM), VLMs (Paligemma)
-- 🌱 Currently exploring: building [GPT from scratch](https://github.com/mimimimi2002/LLM-from-scratch) · [fine-tuning PaliGemma](https://github.com/mimimimi2002/fine-tune-paligemma) · [a Voyager-style driving agent](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager)
+- 🌱 Currently exploring: building [GPT from scratch](https://github.com/mimimimi2002/LLM-from-scratch) · [fine-tuning PaliGemma](https://github.com/mimimimi2002/fine-tune-paligemma) · [Voyager-style driving agent](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager)
 - 💼 Alumni of **Google STEP**, **Google STEP Intern**
 
 ---
@@ -29,7 +29,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -42,6 +46,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
 
 **Web / Infra**
 
@@ -61,7 +66,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**autonomous-driving-agent-based-on-voyager**](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager) | A self-generating driving-policy skill agent inspired by [Voyager](https://arxiv.org/abs/2305.16291). An LLM proposes tasks via an automatic curriculum, writes Python skill code, self-verifies it in a 2D driving sandbox, and grows a reusable skill library. | Python, pygame, scikit-learn, OpenAI-compatible API |
-[
 | [**LLM-from-scratch**](https://github.com/mimimimi2002/LLM-from-scratch) | Chapter-by-chapter implementation of *Build a Large Language Model From Scratch* — tokenizer, attention, GPT model, and training loop packaged as a library. | Python, PyTorch |
 | [**VLM-from-scratch**](https://github.com/mimimimi2002/VLM-from-scratch) | Building a multimodal vision-language model from the ground up. | Python, PyTorch |
 | [**fine-tune-paligemma**](https://github.com/mimimimi2002/fine-tune-paligemma) 🍴 | Fine-tuning **PaliGemma**, a pretrained VLM, for object detection — locating license plates in images, then reading the plate numbers with OCR. The applied counterpart to building a VLM from scratch. | Jupyter Notebook, Transformers |
@@ -71,24 +75,26 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**study-abroad-web-remake**](https://github.com/mimimimi2002/study-abroad-web-remake) | A study-abroad program recommendation tool that suggests programs based on user preferences — **officially published on my university's website**. | JavaScript |
+| [**study-abroad-web-remake**](https://github.com/mimimimi2002/study-abroad-web-remake) | A study-abroad program recommendation tool that suggests programs based on user preferences — **officially published on my university's website** → [ipo.titech.ac.jp/programsearch](http://www.ipo.titech.ac.jp/programsearch/homepage.html). | Python, JavaScript |
 | [**study-abroad-update-windows-exe**](https://github.com/mimimimi2002/study-abroad-update-windows-exe) | Companion updater for the tool above — built with GitHub Actions and shipped as a Windows executable (macOS version [here](https://github.com/mimimimi2002/study-abroad-update-mac-exe)). | Python, GitHub Actions |
 | [**cosmeticsite**](https://github.com/mimimimi2002/cosmeticsite) | *CM Beauty* — a full-stack cosmetics EC site with search, cart, checkout, reviews, and order history. Auth via bcrypt + session IDs. | Vanilla JS, Node.js, Express, SQLite |
 | [**shiori_extension**](https://github.com/mimimimi2002/shiori_extension) | A Chrome extension that saves places while you browse and generates a travel itinerary. The Google Maps view is hosted on AWS as a static site. | JavaScript, Chrome Extension, AWS |
 | [**googleSTEP**](https://github.com/mimimimi2002/googleSTEP) | Weekly assignments from the Google STEP program (incl. [malloc challenge](https://github.com/mimimimi2002/malloc_challenge) and [TSP](https://github.com/mimimimi2002/google-step-tsp)). | Python, C |
 
----
+### 🤝 Team Projects
 
-## 📊 GitHub Stats
+**[@100pro-sewing-pattern-generator](https://github.com/100pro-sewing-pattern-generator)**　— 100 program
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mimimimi2002&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimimimi2002&layout=compact&theme=default&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [**original-cloth-pattern**](https://github.com/100pro-sewing-pattern-generator/original-cloth-pattern) 🏆 | 🥇 **Best Technology Award** at [100 Program](https://100program.jp/) (Cohort 9). A web app that turns a single photo of a person wearing clothes into a **3D garment model and its sewing pattern**, built on [GarVerseLOD](https://arxiv.org/abs/2411.03047) and [NeuralTailor](https://arxiv.org/abs/2201.13063) behind a browser UI with an interactive 3D viewer. | React, Three.js (react-three-fiber), Vite, Python, Docker |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mimimimi2002&theme=default&hide_border=true" alt="streak" />
-</p>
+**[@Hack-U-Shimaenaga](https://github.com/Hack-U-Shimaenaga)** — Hack U Kanazawa
+
+| Project | Description | Stack |
+|---|---|---|
+| [**GoogleMapTravelExtension**](https://github.com/Hack-U-Shimaenaga/GoogleMapTravelExtension) | 🏆 **Hack U Kanazawa** submission. A Chrome extension that pins places from any webpage onto an embedded map and generates a travel itinerary. | JavaScript, Chrome Extension, Google Maps API |
+
 
 ---
 
