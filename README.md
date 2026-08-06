@@ -87,13 +87,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**original-cloth-pattern**](https://github.com/100pro-sewing-pattern-generator/original-cloth-pattern) 🏆 | 🥇 **Best Technology Award** at [100 Program](https://100program.jp/) (Cohort 9). A web app that turns a single photo of a person wearing clothes into a **3D garment model and its sewing pattern**, built on [GarVerseLOD](https://arxiv.org/abs/2411.03047) and [NeuralTailor](https://arxiv.org/abs/2201.13063) behind a browser UI with an interactive 3D viewer. | React, Three.js (react-three-fiber), Vite, Python, Docker |
+| [**original-cloth-pattern**](https://github.com/100pro-sewing-pattern-generator/original-cloth-pattern)  | 🥇 **Best Technology Award** at [100 Program](https://100program.jp/) (Cohort 9). A web app that turns a single photo of a person wearing clothes into a **3D garment model and its sewing pattern**, built on [GarVerseLOD](https://arxiv.org/abs/2411.03047) and [NeuralTailor](https://arxiv.org/abs/2201.13063) behind a browser UI with an interactive 3D viewer. | React, Three.js (react-three-fiber), Vite, Python, Docker |
 
 **[@Hack-U-Shimaenaga](https://github.com/Hack-U-Shimaenaga)** — Hack U Kanazawa
 
 | Project | Description | Stack |
 |---|---|---|
-| [**GoogleMapTravelExtension**](https://github.com/Hack-U-Shimaenaga/GoogleMapTravelExtension) | 🏆 **Hack U Kanazawa** submission. A Chrome extension that pins places from any webpage onto an embedded map and generates a travel itinerary. | JavaScript, Chrome Extension, Google Maps API |
+| [**GoogleMapTravelExtension**](https://github.com/Hack-U-Shimaenaga/GoogleMapTravelExtension) |  **Hack U Kanazawa** submission. A Chrome extension that pins places from any webpage onto an embedded map and generates a travel itinerary. | JavaScript, Chrome Extension, Google Maps API |
 
 
 ---
