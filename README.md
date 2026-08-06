@@ -67,7 +67,6 @@
 |---|---|---|
 | [**autonomous-driving-agent-based-on-voyager**](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager) | A self-generating driving-policy skill agent inspired by [Voyager](https://arxiv.org/abs/2305.16291). An LLM proposes tasks via an automatic curriculum, writes Python skill code, self-verifies it in a 2D driving sandbox, and grows a reusable skill library. | Python, pygame, scikit-learn, OpenAI-compatible API |
 | [**LLM-from-scratch**](https://github.com/mimimimi2002/LLM-from-scratch) | Chapter-by-chapter implementation of *Build a Large Language Model From Scratch* — tokenizer, attention, GPT model, and training loop packaged as a library. | Python, PyTorch |
-| [**VLM-from-scratch**](https://github.com/mimimimi2002/VLM-from-scratch) | Building a multimodal vision-language model from the ground up. | Python, PyTorch |
 | [**fine-tune-paligemma**](https://github.com/mimimimi2002/fine-tune-paligemma) 🍴 | Fine-tuning **PaliGemma**, a pretrained VLM, for object detection — locating license plates in images, then reading the plate numbers with OCR. The applied counterpart to building a VLM from scratch. | Jupyter Notebook, Transformers |
 | [**donut-receipt**](https://github.com/mimimimi2002/donut-receipt) | Fine-tuning [Donut](https://github.com/clovaai/donut) (OCR-free Vision-Encoder-Decoder) on SROIE to extract structured fields — company / date / address / total — from receipt images. | PyTorch Lightning, Transformers |
 
