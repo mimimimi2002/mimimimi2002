@@ -19,7 +19,7 @@
 - 🤖 Interested in **Vision-Language(-Action) models**, **LLM agents**, and **robot / driving policy learning**
 - 🧱 I like **rebuilding things from scratch** to understand them — GPT(LLM), VLMs (Paligemma)
 - 🌱 Currently exploring: building [GPT from scratch](https://github.com/mimimimi2002/LLM-from-scratch) · [fine-tuning PaliGemma](https://github.com/mimimimi2002/fine-tune-paligemma) · [Voyager-style driving agent](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager)
-- 💼 Alumni of **Google STEP**, **Google STEP Intern**
+- 💼 **Google STEP** program & **Google STEP Internship** alumni
 
 ---
 
@@ -46,6 +46,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+
 
 
 **Web / Infra**
@@ -65,6 +67,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**robosuite-ros2**](https://github.com/mimimimi2002/robosuite-ros2) | Vision-based pick & place on **ROS 2 + robosuite**. A Panda arm tidies three balls into a box using only monocular RGB — no depth, and **no simulator ground truth in the control loop**. HSV detection plus ray-plane intersection with the known table height recovers 3D positions; an axis-decoupled state machine handles the motion. Split into separate ROS 2 nodes for the sim boundary, perception, and task control, so it maps onto real hardware. | ROS 2 Humble, robosuite / MuJoCo, Python, OpenCV |
 | [**autonomous-driving-agent-based-on-voyager**](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager) | A self-generating driving-policy skill agent inspired by [Voyager](https://arxiv.org/abs/2305.16291). An LLM proposes tasks via an automatic curriculum, writes Python skill code, self-verifies it in a 2D driving sandbox, and grows a reusable skill library. | Python, pygame, scikit-learn, OpenAI-compatible API |
 | [**LLM-from-scratch**](https://github.com/mimimimi2002/LLM-from-scratch) | Chapter-by-chapter implementation of *Build a Large Language Model From Scratch* — tokenizer, attention, GPT model, and training loop packaged as a library. | Python, PyTorch |
 | [**pytorch-paligemma**](https://github.com/mimimimi2002/pytorch-paligemma) 🍴 | Annotated read-through of a PaliGemma implementation (SigLIP → projector → Gemma), traced against the real 3B weights — plus a `<loc>` token decoder that turns `detect` output into bounding boxes. | Python, PyTorch, Hugging Face |
