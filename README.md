@@ -18,7 +18,7 @@
 - 🎓 Student at **Institute of Science Tokyo (東京科学大学)** — one of my projects is officially used on the university's study-abroad page
 - 🤖 Interested in **Vision-Language(-Action) models**, **LLM agents**, and **robot / driving policy learning**
 - 🧱 I like **rebuilding things from scratch** to understand them — GPT(LLM), VLMs (Paligemma)
-- 🌱 Currently exploring: building [GPT from scratch](https://github.com/mimimimi2002/LLM-from-scratch) · [fine-tuning PaliGemma](https://github.com/mimimimi2002/fine-tune-paligemma) · [Voyager-style driving agent](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager)
+- 🌱 Currently exploring: building [GPT from scratch](https://github.com/mimimimi2002/GPT-from-scratch) · [fine-tuning PaliGemma](https://github.com/mimimimi2002/fine-tune-paligemma) · [Voyager-style driving agent](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager)
 - 💼 **Google STEP** program & **Google STEP Internship** alumni
 
 ---
@@ -69,7 +69,7 @@
 |---|---|---|
 | [**robosuite-ros2**](https://github.com/mimimimi2002/robosuite-ros2) | Vision-based pick & place on **ROS 2 + robosuite** — a Panda arm tidies three balls into a box from monocular RGB. Perception and task control run as separate ROS 2 nodes from the simulator, so the setup transfers to real hardware. | ROS 2 Humble, robosuite / MuJoCo, Python, OpenCV |
 | [**autonomous-driving-agent-based-on-voyager**](https://github.com/mimimimi2002/autonomous-driving-agent-based-on-voyager) | A self-generating driving-policy skill agent inspired by [Voyager](https://arxiv.org/abs/2305.16291). An LLM proposes tasks via an automatic curriculum, writes Python skill code, self-verifies it in a 2D driving sandbox, and grows a reusable skill library. | Python, pygame, scikit-learn, OpenAI-compatible API |
-| [**LLM-from-scratch**](https://github.com/mimimimi2002/LLM-from-scratch) | Chapter-by-chapter implementation of *Build a Large Language Model From Scratch* — tokenizer, attention, GPT model, and training loop packaged as a library. | Python, PyTorch |
+| [**GPT-from-scratch**](https://github.com/mimimimi2002/GPT-from-scratch) | Chapter-by-chapter implementation of *Build a Large Language Model From Scratch* — tokenizer, attention, GPT model, and training loop packaged as a library. | Python, PyTorch |
 | [**pytorch-paligemma**](https://github.com/mimimimi2002/pytorch-paligemma) 🍴 | Annotated read-through of a PaliGemma implementation (SigLIP → projector → Gemma), traced against the real 3B weights — plus a `<loc>` token decoder that turns `detect` output into bounding boxes. | Python, PyTorch, Hugging Face |
 | [**fine-tune-paligemma**](https://github.com/mimimimi2002/fine-tune-paligemma) 🍴 | Fine-tuning **PaliGemma**, a pretrained VLM, for object detection — locating license plates in images, then reading the plate numbers with OCR. The applied counterpart to building a VLM from scratch. | Jupyter Notebook, Transformers |
 | [**donut-receipt**](https://github.com/mimimimi2002/donut-receipt) | Fine-tuning [Donut](https://github.com/clovaai/donut) (OCR-free Vision-Encoder-Decoder) on SROIE to extract structured fields — company / date / address / total — from receipt images. | PyTorch Lightning, Transformers |
