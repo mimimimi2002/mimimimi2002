@@ -82,6 +82,7 @@
 | [**study-abroad-update-windows-exe**](https://github.com/mimimimi2002/study-abroad-update-windows-exe) | Companion updater for the tool above — built with GitHub Actions and shipped as a Windows executable (macOS version [here](https://github.com/mimimimi2002/study-abroad-update-mac-exe)). | Python, GitHub Actions |
 | [**cosmeticsite**](https://github.com/mimimimi2002/cosmeticsite) | *CM Beauty* — a full-stack cosmetics EC site with search, cart, checkout, reviews, and order history. Auth via bcrypt + session IDs. | Vanilla JS, Node.js, Express, SQLite |
 | [**shiori_extension**](https://github.com/mimimimi2002/shiori_extension) | A Chrome extension that saves places while you browse and generates a travel itinerary. The Google Maps view is hosted on AWS as a static site. | JavaScript, Chrome Extension, AWS |
+| [**trade_fx**](https://github.com/mimimimi2002/trade_fx) | A quantitative FX trading system built with Python and the OANDA API. | Python |
 | [**googleSTEP**](https://github.com/mimimimi2002/googleSTEP) | Weekly assignments from the Google STEP program (incl. [malloc challenge](https://github.com/mimimimi2002/malloc_challenge) and [TSP](https://github.com/mimimimi2002/google-step-tsp)). | Python, C |
 
 ### 🤝 Team Projects
