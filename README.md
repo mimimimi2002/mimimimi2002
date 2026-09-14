@@ -78,6 +78,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**trade-fx**](https://github.com/mimimimi2002/trade_fx) | Built a whole trade fx system using OANDA API. | Python |
 | [**study-abroad-web-remake**](https://github.com/mimimimi2002/study-abroad-web-remake) | A study-abroad program recommendation tool that suggests programs based on user preferences — **officially published on my university's website** → [ipo.titech.ac.jp/programsearch](http://www.ipo.titech.ac.jp/programsearch/homepage.html). | Python, JavaScript |
 | [**study-abroad-update-windows-exe**](https://github.com/mimimimi2002/study-abroad-update-windows-exe) | Companion updater for the tool above — built with GitHub Actions and shipped as a Windows executable (macOS version [here](https://github.com/mimimimi2002/study-abroad-update-mac-exe)). | Python, GitHub Actions |
 | [**cosmeticsite**](https://github.com/mimimimi2002/cosmeticsite) | *CM Beauty* — a full-stack cosmetics EC site with search, cart, checkout, reviews, and order history. Auth via bcrypt + session IDs. | Vanilla JS, Node.js, Express, SQLite |
