@@ -76,6 +76,12 @@
 | [**fine-tune-paligemma**](https://github.com/mimimimi2002/fine-tune-paligemma) 🍴 | Fine-tuning **PaliGemma**, a pretrained VLM, for object detection — locating license plates in images, then reading the plate numbers with OCR. The applied counterpart to building a VLM from scratch. | Jupyter Notebook, Transformers |
 | [**donut-receipt**](https://github.com/mimimimi2002/donut-receipt) | Fine-tuning [Donut](https://github.com/clovaai/donut) (OCR-free Vision-Encoder-Decoder) on SROIE to extract structured fields — company / date / address / total — from receipt images. | PyTorch Lightning, Transformers |
 
+### ⚙️ Systems / Backend
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Redis-from-scratch**](https://github.com/mimimimi2002/redis_from_scratch) | A Redis-like in-memory key-value server built from scratch, featuring a non-blocking event loop, custom binary protocol, TTL, and asynchronous task processing. | C++, TCP/IP, poll, Thread Pool |
+
 ### 🌐 Web & Tools
 
 | Project | Description | Stack |
